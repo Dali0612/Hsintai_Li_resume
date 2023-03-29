@@ -1,13 +1,14 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Hsin-Tai Li's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Hsin-Tai Li
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="daz960612@gmail.com">daz960612@gmail.com</a>
+| <a href="https://www.linkedin.com/in/hsintai-li/">LinkedIn</a>
+| <a href="https://github.com/Dali0612">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -15,15 +16,11 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2021-Present`
+__Brigham Young University-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Full academic scholarship with 3.987 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
 
 
 ## Related Experience

@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Hsin-Tai Li
 ---
 # Brigham Young
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
@@ -86,4 +86,7 @@ __Service Missionary__, South Africa
 
 Last updated: May 2013 -->
 
-
+<!-- git pull (pull changes from github)
+     git add . (Upload all the changed files.)
+     git commit -m "message" (add commits)
+     git push (push go github)>
