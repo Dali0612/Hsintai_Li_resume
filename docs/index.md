@@ -15,77 +15,55 @@ title: Hsin-Tai Li
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2021-2025`
+__Brigham Young University-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Brigham Young University Idaho Academic Scholarship recipient
+-	2 Excel certificates issued by Harvard Business Publishing Education, and myeducator
+-	Helping Domo Inc create automatic process to solve a problem by using VBA code in Microsoft Excel
+-	GPA: 3.987
+-	Minor: Data Science & Business Management
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
 
 
 ## Related Experience
 
-### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`January. 2023 - Present`
+__Teaching Assistant of Spreadsheet Analysis__, Rexburg, ID
 
-### Data Science Lead
+-	Help 23 students find out the mistakes in their projects.
+-	Communicate with students, other TAs, and the professor to solve problems.
+-	1 on 1 tutoring
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`September. 2022 - Present`
+__Student Consults on Teaching __, Rexburg, ID
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+-	Consulted with 11 professors and made custom student surveys.
+-	Explained 8 different types of consults to professors and helped them select the one most fit their needs.
+-	Created summary sheet with tables and charts to communicate survey results in Microsoft Excel
+-	Training 7 other SCOTs to do consults
 
-### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`April. 2021 – August. 2021`
+__Host __, New Taipei City, Taiwan
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+-	Provided customer service for arriving and departing guests.
+-	Thoroughly clean rooms after guests depart and prepare rooms for the new guests.
+-	Receiving calls from customers and answering questions and making new book for them.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
 
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2018-2020`
+__Service Missionary__, Toronto, Canada
 
 
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
-
-<!-- git pull (pull changes from github)
-     git add . (Upload all the changed files.)
-     git commit -m "message" (add commits)
-     git push (push go github)>
